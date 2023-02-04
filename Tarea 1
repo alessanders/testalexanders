@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+<!--Este es mi primer comentario de dos líneas
+Aprendiendo a documentar mi código-->
+        <h4>Lista de videos Favoritos</h4>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=wGdodz6ck7g">Lofi Study Vibes ❤️ Lofi Hip Hop & Chillhop Mix ~ Study Music, Relaxing Music</a></li>
+            <li><a href="https://www.youtube.com/watch?v=ZyWYZVV3BTs">GEREWOL: donde las mujeres escogen a los hombres</a></li>
+            <li><a href="https://www.youtube.com/watch?v=bjVpfUO3LHU">CHAT GPT Y VALL-E, las herramienta preferidas por los hackers</a></li>
+        </ul>
+    </body>
+</html>
+
+<!--Este código fue realizado en VSCode-->
+<!--Tarea #1-->
